@@ -1,0 +1,25 @@
+Prime obsession
+1
+2003
+John Derbyshire
+3
+Linear algebra done right
+2
+1998
+Sheldon Axler
+3
+Calculus made easy
+3
+1910
+Silvanus Thompson
+2
+An Imaginary Tale
+4
+1998
+Paul Nahine
+3
+Basic mathematics
+5
+1971
+Serge Lang
+3
